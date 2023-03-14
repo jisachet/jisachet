@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jisachet
 - 👀 I’m interested in coding and design.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me @instagram.com/jisachet
 
